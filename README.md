@@ -1,1 +1,1 @@
-THis EFI file for Acer Aspire laptop
+THis EFI file for Acer Aspire laptop 3 A315 23
